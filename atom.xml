@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-07-20T08:23:53.213Z</updated>
+  <updated>2019-07-27T15:07:33.038Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -17,11 +17,166 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>💼第十天</title>
+    <link href="https://blog.eli486.cn/2019/07/26/day12/"/>
+    <id>https://blog.eli486.cn/2019/07/26/day12/</id>
+    <published>2019-07-26T13:28:15.000Z</published>
+    <updated>2019-07-27T15:07:33.038Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是上班一周的最后一天<br>很平常<br>今儿早饭也恢复原样<br>难道就周四多点花样？</p><blockquote>上午</blockquote>日常任务<blockquote>下午</blockquote>Bruce发了个新的任务说是类似WebService接口Bruce自己写的让我换个账号改改就行🐮🍺啊。。。。。。搞砸了试了几次取不到数据原来是接口访问每天有限制次数😅虽然Bruce没说但可能他以为我懂我的问题没做好断点调试查看数据以后要注意了不过周末我可以在家搞搞反正每天都有访问次数不用白不用<blockquote>下班</blockquote>KZ坐我旁边本以为很尴尬但KZ聊了起来简单说了说最近工作状况也了解了下面几周要干啥WebService接口、以及新的开发工具使用闲聊了下大学生活KZ上大学比高中还辛苦厉害了我好像挺咸鱼的😢]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;又是上班一周的最后一天&lt;br&gt;很平常&lt;br&gt;今儿早饭也恢复原样&lt;br&gt;难道就周四多点花样？&lt;/p&gt;
+&lt;blockquote&gt;上午&lt;/blockquote&gt;
+日常任务
+
+&lt;blockquote&gt;下午&lt;/blockquote&gt;
+Bruce发了个新的任务
+说是类似WebServi
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MyWish</title>
+    <link href="https://blog.eli486.cn/2019/07/25/MyWish/"/>
+    <id>https://blog.eli486.cn/2019/07/25/MyWish/</id>
+    <published>2019-07-25T15:08:59.000Z</published>
+    <updated>2019-07-27T15:22:05.020Z</updated>
+    
+    <content type="html"><![CDATA[<p>我相信每个博客都有自己的寄托</p><p>我的博客初衷也只是简简单单的记录日常点滴<br>可我现在不这么想<br>我希望这能成为我的一个习惯<br>即便每天的时间都不是那么充足去写博客<br>但我也应该可以隔两天去完成它<br>而我现在也确实这么做<br>每天最多可以简单写两句一天发生的印象深的事<br>每篇博客还是挪到空闲的一天去加以丰富</p><p>如果我的一生以100岁来划定终点<br>那么我的1/4岁月已经过去<br>回顾那些日子<br>好像发自内心想干的事也不过两三件<br>而且也没有坚持到现在<br>前半生已经过半<br>我不能再次去抱以希望<br>我应该予以肯定<br>现在是新的起点<br>博客<br>开启我的篇章</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我相信每个博客都有自己的寄托&lt;/p&gt;
+&lt;p&gt;我的博客初衷也只是简简单单的记录日常点滴&lt;br&gt;可我现在不这么想&lt;br&gt;我希望这能成为我的一个习惯&lt;br&gt;即便每天的时间都不是那么充足去写博客&lt;br&gt;但我也应该可以隔两天去完成它&lt;br&gt;而我现在也确实这么做&lt;br&gt;每天最多可以简单
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第九天</title>
+    <link href="https://blog.eli486.cn/2019/07/25/day11/"/>
+    <id>https://blog.eli486.cn/2019/07/25/day11/</id>
+    <published>2019-07-25T13:28:09.000Z</published>
+    <updated>2019-07-27T15:07:28.078Z</updated>
+    
+    <content type="html"><![CDATA[<p>早起坐班车<br>今儿早餐不错<br>很丰盛<br>有我期待已久的萝卜干配菜<br>还有几样新的菜品<br>难道每周四都这样？<br>下周要留意一下</p><blockquote>上午</blockquote>虽然可以生成报表但没解决session过期的问题暂时搁置这个任务<blockquote>下午</blockquote>新任务新任务搞起来<blockquote>晚上</blockquote>嗯抢票系统崩溃了8点多又好了最近好像比较慵懒]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;早起坐班车&lt;br&gt;今儿早餐不错&lt;br&gt;很丰盛&lt;br&gt;有我期待已久的萝卜干配菜&lt;br&gt;还有几样新的菜品&lt;br&gt;难道每周四都这样？&lt;br&gt;下周要留意一下&lt;/p&gt;
+&lt;blockquote&gt;上午&lt;/blockquote&gt;
+虽然可以生成报表
+但没解决session过期的问题
+暂时搁置
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第八天</title>
+    <link href="https://blog.eli486.cn/2019/07/24/day10/"/>
+    <id>https://blog.eli486.cn/2019/07/24/day10/</id>
+    <published>2019-07-24T13:28:02.000Z</published>
+    <updated>2019-07-27T14:45:55.961Z</updated>
+    
+    <content type="html"><![CDATA[<p>早起坐班车<br>这已经是日常了<br>早餐吃了蛋糕和酸奶<br>5.5￥<br>小贵<br>但好像差不多这个价</p><blockquote>上午</blockquote>一上午都在搞登录怀疑人生我昨天不是成功实现登录的🐎咋回事呢兄弟<blockquote>下午</blockquote>下午还在搞登录问了Bruce推测是session过期导致的可我传参咋老失败呢我照着别人的步骤写的啊嗯看来我这个比较难不过下班前终于知道写死URL获取页面的方法<blockquote>晚上</blockquote>崩三扩充抽出了摩托洛鸭🤦‍我是留着次数抽女王的啊岂可修又要再来5个月才可能完成扩充100次贫民玩家的忧伤骑摩托的布洛尼亚真酷😄]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;早起坐班车&lt;br&gt;这已经是日常了&lt;br&gt;早餐吃了蛋糕和酸奶&lt;br&gt;5.5￥&lt;br&gt;小贵&lt;br&gt;但好像差不多这个价&lt;/p&gt;
+&lt;blockquote&gt;上午&lt;/blockquote&gt;
+一上午都在搞登录
+怀疑人生
+我昨天不是成功实现登录的🐎
+咋回事呢兄弟
+
+
+&lt;blockquot
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第七天</title>
+    <link href="https://blog.eli486.cn/2019/07/23/day09/"/>
+    <id>https://blog.eli486.cn/2019/07/23/day09/</id>
+    <published>2019-07-23T13:27:44.000Z</published>
+    <updated>2019-07-27T15:07:18.029Z</updated>
+    
+    <content type="html"><![CDATA[<p>早起坐班车<br>早饭刷的时候<br>忘记看还剩多少<br>到底昨天圈存成功了没？<br>顺便一提<br>今天还是榨菜<br>我的萝卜干呢？<br>那个是萝卜干吗？</p><blockquote>上午</blockquote>新的任务出现问题这个验证码传参怎么老是实现不了登录呢？沃日<blockquote>中午</blockquote>中饭饭卡3元尴尬找地方圈存去正好刚看到餐厅门旁边就有个机器卡放上去就成功了会了会了麻麻再也不用担心我吃不上饭了<blockquote>下午</blockquote>下班前莫名在URL的POST请求中添加HTTP/1.1结果成功登录上去了一次西卡西！！回家又登录失败了，莫非跟IP有关？🤔]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;早起坐班车&lt;br&gt;早饭刷的时候&lt;br&gt;忘记看还剩多少&lt;br&gt;到底昨天圈存成功了没？&lt;br&gt;顺便一提&lt;br&gt;今天还是榨菜&lt;br&gt;我的萝卜干呢？&lt;br&gt;那个是萝卜干吗？&lt;/p&gt;
+&lt;blockquote&gt;上午&lt;/blockquote&gt;
+新的任务出现问题
+这个验证码传参怎么老是实现
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第六天</title>
+    <link href="https://blog.eli486.cn/2019/07/22/day08/"/>
+    <id>https://blog.eli486.cn/2019/07/22/day08/</id>
+    <published>2019-07-22T13:27:35.000Z</published>
+    <updated>2019-07-27T15:07:13.889Z</updated>
+    
+    <content type="html"><![CDATA[<p>新的一周开始了<br>习惯了不在家吃早饭<br>早早出发搭班车去<br>公司二楼的早餐有也还可以<br>今儿是榨菜配稀饭加蛋饼</p><blockquote>上午</blockquote>XML请求解决了又来三个任务一个一个看<blockquote>中午</blockquote>吃完中饭找饭卡圈存地G1大厅那儿怎么卡放上去老要显示刷7元而不是跟第一次那样说圈存成功呢？我这算圈存成功了🐎]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;新的一周开始了&lt;br&gt;习惯了不在家吃早饭&lt;br&gt;早早出发搭班车去&lt;br&gt;公司二楼的早餐有也还可以&lt;br&gt;今儿是榨菜配稀饭加蛋饼&lt;/p&gt;
+&lt;blockquote&gt;上午&lt;/blockquote&gt;
+XML请求解决了
+又来三个任务
+一个一个看
+
+
+&lt;blockquote&gt;中午&lt;/b
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>💼第五天</title>
-    <link href="https://blog.eli486.cn/2019/07/20/day07/"/>
-    <id>https://blog.eli486.cn/2019/07/20/day07/</id>
-    <published>2019-07-20T08:06:03.000Z</published>
-    <updated>2019-07-20T08:23:53.213Z</updated>
+    <link href="https://blog.eli486.cn/2019/07/19/day07/"/>
+    <id>https://blog.eli486.cn/2019/07/19/day07/</id>
+    <published>2019-07-19T08:06:03.000Z</published>
+    <updated>2019-07-27T15:06:58.859Z</updated>
     
     <content type="html"><![CDATA[<p>早上做日常<br>班车上偶遇同事<br>一起去2楼吃早饭<br>闲聊几句<a id="more"></a><br>他95的<br>比我小1岁<br>我好像说他看起来老成<br>不知道他会不会不高兴<br>挺纠结的<br>笨嘴</p><blockquote>上午</blockquote>完成了昨天的任务<blockquote>下午</blockquote>安排新任务这次是XML格式晕了捣鼓半天没搞懂<p>一天就结束了<br>周末双休<br>美滋滋🤭</p>]]></content>
     
@@ -36,10 +191,10 @@
   
   <entry>
     <title>💼第四天</title>
-    <link href="https://blog.eli486.cn/2019/07/20/day06/"/>
-    <id>https://blog.eli486.cn/2019/07/20/day06/</id>
-    <published>2019-07-20T07:22:44.000Z</published>
-    <updated>2019-07-20T08:23:49.923Z</updated>
+    <link href="https://blog.eli486.cn/2019/07/18/day06/"/>
+    <id>https://blog.eli486.cn/2019/07/18/day06/</id>
+    <published>2019-07-18T07:22:44.000Z</published>
+    <updated>2019-07-27T15:06:50.560Z</updated>
     
     <content type="html"><![CDATA[<p>吃了退烧药和消炎药<br>早上起来舒服很多<br>日常蹲坑抢票<a id="more"></a><br>纳尼，没票了<br>难道不是早上抢票吗？<br>早点去搭公交<br>地铁上眼巴巴刷着车票<br>看了很久都没人退票<br>老实坐公交喽</p><blockquote>上午</blockquote>Bruce又换了个新任务给我换汤不换药之前处理JSON格式请求这次是普通的带参请求<blockquote>下午</blockquote>下班虽然抢到了车票但老爸有空来接取消车票一起回家但是老爸开车打📞看的心烦<p>晚上<br>发现车票原来7点就开抢了<br>那稳了<br>马上安排</p>]]></content>
     
@@ -54,10 +209,10 @@
   
   <entry>
     <title>💼第三天</title>
-    <link href="https://blog.eli486.cn/2019/07/19/day05/"/>
-    <id>https://blog.eli486.cn/2019/07/19/day05/</id>
-    <published>2019-07-19T15:14:02.000Z</published>
-    <updated>2019-07-20T08:23:46.213Z</updated>
+    <link href="https://blog.eli486.cn/2019/07/17/day05/"/>
+    <id>https://blog.eli486.cn/2019/07/17/day05/</id>
+    <published>2019-07-17T15:14:02.000Z</published>
+    <updated>2019-07-27T15:06:42.250Z</updated>
     
     <content type="html"><![CDATA[<p>难受啊马飞<br>一大早4、5点<br>喉咙发炎<br>巨痛难忍<br>睡不着觉。<a id="more"></a><br>蹲坑<br>抢车票<br>找点蒲地蓝和阿莫西林<br>先扛着上班去。</p><blockquote>上午</blockquote>继续昨天的代码三天搞定一个实现类我很菜应该看得出来<blockquote>下午</blockquote>叫了炸鸡,说是下午茶欧里给软件部都有份即使嗓子爆炸，我也要吃。<p>晚上<br>兰姐陪着去🏥配点药<br>还是原来的那个老医生<br>量体温居然不用温度计<br>改用仪器测👂<br>👍哦，快而准,38.6℃<br>好好吃药(。&gt;︿&lt;)_θ</p>]]></content>
     
@@ -72,10 +227,10 @@
   
   <entry>
     <title>💼第二天</title>
-    <link href="https://blog.eli486.cn/2019/07/18/day04/"/>
-    <id>https://blog.eli486.cn/2019/07/18/day04/</id>
-    <published>2019-07-18T14:18:18.000Z</published>
-    <updated>2019-07-20T08:23:40.164Z</updated>
+    <link href="https://blog.eli486.cn/2019/07/16/day04/"/>
+    <id>https://blog.eli486.cn/2019/07/16/day04/</id>
+    <published>2019-07-16T14:18:18.000Z</published>
+    <updated>2019-07-27T15:06:35.791Z</updated>
     
     <content type="html"><![CDATA[<p>早上照常6：45起床，然后蹲坑。掏出了手机，找到了昨天抢班车票的公众号的穿梭巴士，发现了有从二号线金尚路地铁站到产业园停车场的车票，遂抢之。<a id="more"></a><br>因为是8点的车，就7：15离开家<br>7：26上了二号线，接近7：50左右到了金尚路<br>却不知该从哪个出口出去<br>慌忙决定先跟着人多的口子出去<br>先挑了4号口，上去一看果然有车<br>比对车票上的车牌却都不是去产业园的班车<br>四下张望、无处可去<br>当时内心很崩溃<br>但还是扭头换了出口，看到1号口也人多就出去了<br>上去一看发现很多人都在路边站着<br>我看看了时间发现还有2分钟就8点了<br>“不能再等了，现在回去坐公交还来得及吧!”<br>当我想问问旁边人这是不是在等班车时<br>前方是来了我期待已久的班车，当时我就兴奋地不能自已<br>同时我我也想说<br>“我去😡，真TM准时，说8点就8点!”<br>来的虽然不早，但去的还是挺快的<br>8：15就到了产业园<br>当时我就无语<br>这比208快了半小时，我的天呐<br>以后都坐班车，就这么决定了。</p><blockquote>上午</blockquote>bruce让我换个风格去写昨天的代码捣鼓半天还是没搞懂bruce无奈讲解一番我稍微理解了怎么用fiddle根据请求抓取响应数据。<blockquote>下午</blockquote>发了我的电脑😊第一个属于自己的笔记本电脑。]]></content>
     
