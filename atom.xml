@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-07-31T15:18:30.275Z</updated>
+  <updated>2019-08-02T13:51:16.390Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -17,11 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>💼第十二天</title>
+    <title>💼第十五天</title>
+    <link href="https://blog.eli486.cn/2019/08/02/day17/"/>
+    <id>https://blog.eli486.cn/2019/08/02/day17/</id>
+    <published>2019-08-02T13:39:40.000Z</published>
+    <updated>2019-08-02T13:51:16.390Z</updated>
+    
+    <content type="html"><![CDATA[<p>惊了😲<br>忘了抢班车票<br>岂可休<br>老老实实坐公交<br>早饭喝杯黑米粥 2￥<br>😭<a id="more"></a></p><blockquote>上午</blockquote>熟悉了一下昨天所做的事又学了新的基线检查服务器连接不好重启连接了几次弄弄就中午了<blockquote>下午</blockquote>搞完了基线检查又没事了干捣鼓了一下Markdown再熟悉了拆分问题地解决就下班了。。。]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;惊了😲&lt;br&gt;忘了抢班车票&lt;br&gt;岂可休&lt;br&gt;老老实实坐公交&lt;br&gt;早饭喝杯黑米粥 2￥&lt;br&gt;😭
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第十四天</title>
+    <link href="https://blog.eli486.cn/2019/08/01/day16/"/>
+    <id>https://blog.eli486.cn/2019/08/01/day16/</id>
+    <published>2019-08-01T14:09:48.000Z</published>
+    <updated>2019-08-02T13:53:37.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>早饭吃了两个大烧卖配稀饭<br>烧饭包的有点杂<br>并没那么好吃<a id="more"></a></p><blockquote>上午</blockquote>搞Tomcat研究来研究去也没整明白代码部署到服务器拒绝访问终于原来是那家IP地址被拉黑了<blockquote>下午</blockquote>学学开通权限、打单调整的操作]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;早饭吃了两个大烧卖配稀饭&lt;br&gt;烧饭包的有点杂&lt;br&gt;并没那么好吃
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第十三天</title>
     <link href="https://blog.eli486.cn/2019/07/31/day15/"/>
     <id>https://blog.eli486.cn/2019/07/31/day15/</id>
     <published>2019-07-31T15:06:59.000Z</published>
-    <updated>2019-07-31T15:18:30.275Z</updated>
+    <updated>2019-08-02T13:41:07.833Z</updated>
     
     <content type="html"><![CDATA[<p>今天早饭有萝卜干<br>搭两个小笼包配稀饭<br>4￥ 可以啊<br>明儿周四不知道早饭会多丰盛😄</p><blockquote>上午</blockquote>原打算秀一下自己用XMind做出来的流程图搞着搞着昨天的登录没心情去show<a id="more"></a><blockquote>下午</blockquote>搞了一天这个不需要登录输入验证码也可以取到数据崩溃尝试N种方式很想放弃请教点别的知识整理很尴尬直到下班他又提出对整个项目重新部署清除Tomcat缓存试试😩<blockquote>晚上</blockquote>虽然很烦但坐在电脑前又情不自禁地分析问题所在尝试换个Tomcat版本在Eclipse中实现定时任务--成功实现Bing、Baidu看看Tomcat本地成功、部署到服务器失败的原因又尝试不使用Eclipse直接部署到Tomcat中--成功实现看来明儿还要去看看是不是缓存问题]]></content>
     
