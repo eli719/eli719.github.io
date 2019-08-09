@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-08-02T13:51:16.390Z</updated>
+  <updated>2019-08-09T14:32:25.469Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,96 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>💼第十九天</title>
+    <link href="https://blog.eli486.cn/2019/08/09/day22/"/>
+    <id>https://blog.eli486.cn/2019/08/09/day22/</id>
+    <published>2019-08-09T14:23:47.000Z</published>
+    <updated>2019-08-09T14:32:25.469Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>台风将至<br>今儿的风格外喧嚣~<br>早饭没啥想吃的<br>尝了尝腐乳+稀饭+蒸包<br>7￥<br>小贵<br>腐乳还是那么臭<br>还加了酒调味<br>😵<a id="more"></a></p><blockquote>上午</blockquote>日常Web取数整理宝典导进销存第二版摸索存储<blockquote>下午</blockquote>拆分问题处理整理mail模板整理宝典<blockquote>晚上</blockquote>下地铁时起大风刮大雨一度怀疑要被吹跑结果成了落汤鸡]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;台风将至&lt;br&gt;今儿的风格外喧嚣~&lt;br&gt;早饭没啥想吃的&lt;br&gt;尝了尝腐乳+稀饭+蒸包&lt;br&gt;7￥&lt;br&gt;小贵&lt;br&gt;腐乳还是那么臭&lt;br&gt;还加了酒调味&lt;br&gt;😵
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第十八天</title>
+    <link href="https://blog.eli486.cn/2019/08/08/day21/"/>
+    <id>https://blog.eli486.cn/2019/08/08/day21/</id>
+    <published>2019-08-08T13:38:56.000Z</published>
+    <updated>2019-08-08T13:52:55.174Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>上班车之前像是要下雨<br>又没下成<br>先要充饭卡<br>找了几个充值机都没网<br>还是去1楼前台那才充成<br>早饭有萝卜干(应该是萝卜干吧)<br>稀饭+煎饺 4￥<a id="more"></a></p><blockquote>今儿</blockquote>今儿一天也没干啥大事熟悉使用logger来抓取前端页面执行的SQL语句听着挺高大上的总共做了5个页面的详解还凑活顺带也知道怎么在人事系统填写加班了]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;上班车之前像是要下雨&lt;br&gt;又没下成&lt;br&gt;先要充饭卡&lt;br&gt;找了几个充值机都没网&lt;br&gt;还是去1楼前台那才充成&lt;br&gt;早饭有萝卜干(应该是萝卜干吧)&lt;br&gt;稀饭+煎饺 4￥
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第十七天</title>
+    <link href="https://blog.eli486.cn/2019/08/07/day20/"/>
+    <id>https://blog.eli486.cn/2019/08/07/day20/</id>
+    <published>2019-08-07T14:46:01.000Z</published>
+    <updated>2019-08-07T15:01:57.417Z</updated>
+    
+    <content type="html"><![CDATA[<p>今儿有班车坐<br>确实爽<br>早饭<br>看到肉松蛋糕来一个<br>枣巴来一个<br>再来酸奶<br>7.5￥<br>贵了<a id="more"></a></p><blockquote>上午</blockquote>日常基线检查然后继续学习WebService<blockquote>下午</blockquote>捣鼓半天终于实现了WebService的简单案例然后摸鱼Bruce发现了😅关切地询问了最近地学习状况(⊙﹏⊙)要学的看是很多啊每个SQL都要了解看来我没时间摸鱼呀<blockquote>晚上</blockquote>今儿加班体验一下👍知道了开发票的重要性加班要多攒点发票拿来报销虽然一晚上没我啥事但还是很期待自己以后能帮上忙]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今儿有班车坐&lt;br&gt;确实爽&lt;br&gt;早饭&lt;br&gt;看到肉松蛋糕来一个&lt;br&gt;枣巴来一个&lt;br&gt;再来酸奶&lt;br&gt;7.5￥&lt;br&gt;贵了
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第十六天</title>
+    <link href="https://blog.eli486.cn/2019/08/06/day19/"/>
+    <id>https://blog.eli486.cn/2019/08/06/day19/</id>
+    <published>2019-08-06T14:21:38.000Z</published>
+    <updated>2019-08-07T15:01:59.692Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上又得坐公交<br>最近老是忘记抢班车票<br>定个闹钟吧<a id="more"></a></p><blockquote>上午</blockquote>基线检查进销存不平衡表导出摸鱼。。<blockquote>下午</blockquote>看了看WebService还没操作几下发现每日报表漏了一张急忙忙下班前修改了]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;早上又得坐公交&lt;br&gt;最近老是忘记抢班车票&lt;br&gt;定个闹钟吧
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>💼第十六天</title>
+    <link href="https://blog.eli486.cn/2019/08/05/day18/"/>
+    <id>https://blog.eli486.cn/2019/08/05/day18/</id>
+    <published>2019-08-05T14:05:25.000Z</published>
+    <updated>2019-08-07T15:02:01.692Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上故意放慢步伐<br>想做7：26地铁地下一班<br>因为每次去早了都是在等班车<br>下一班地铁正好班车刚到<br>早饭 粥+蒸饺+咸菜 4.5￥<br>咸菜是真滴咸！<a id="more"></a></p><blockquote>今日</blockquote>刚来就收到消息需要帮忙基线检查简单我已经亲车熟路20分钟就交差本以为今天可以学新玩意结果一天都在看古今宝典😭]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;早上故意放慢步伐&lt;br&gt;想做7：26地铁地下一班&lt;br&gt;因为每次去早了都是在等班车&lt;br&gt;下一班地铁正好班车刚到&lt;br&gt;早饭 粥+蒸饺+咸菜 4.5￥&lt;br&gt;咸菜是真滴咸！
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>💼第十五天</title>
@@ -290,101 +380,6 @@
     <summary type="html">
     
       &lt;p&gt;难受啊马飞&lt;br&gt;一大早4、5点&lt;br&gt;喉咙发炎&lt;br&gt;巨痛难忍&lt;br&gt;睡不着觉。
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第二天</title>
-    <link href="https://blog.eli486.cn/2019/07/16/day04/"/>
-    <id>https://blog.eli486.cn/2019/07/16/day04/</id>
-    <published>2019-07-16T14:18:18.000Z</published>
-    <updated>2019-07-27T15:06:35.791Z</updated>
-    
-    <content type="html"><![CDATA[<p>早上照常6：45起床，然后蹲坑。掏出了手机，找到了昨天抢班车票的公众号的穿梭巴士，发现了有从二号线金尚路地铁站到产业园停车场的车票，遂抢之。<a id="more"></a><br>因为是8点的车，就7：15离开家<br>7：26上了二号线，接近7：50左右到了金尚路<br>却不知该从哪个出口出去<br>慌忙决定先跟着人多的口子出去<br>先挑了4号口，上去一看果然有车<br>比对车票上的车牌却都不是去产业园的班车<br>四下张望、无处可去<br>当时内心很崩溃<br>但还是扭头换了出口，看到1号口也人多就出去了<br>上去一看发现很多人都在路边站着<br>我看看了时间发现还有2分钟就8点了<br>“不能再等了，现在回去坐公交还来得及吧!”<br>当我想问问旁边人这是不是在等班车时<br>前方是来了我期待已久的班车，当时我就兴奋地不能自已<br>同时我我也想说<br>“我去😡，真TM准时，说8点就8点!”<br>来的虽然不早，但去的还是挺快的<br>8：15就到了产业园<br>当时我就无语<br>这比208快了半小时，我的天呐<br>以后都坐班车，就这么决定了。</p><blockquote>上午</blockquote>bruce让我换个风格去写昨天的代码捣鼓半天还是没搞懂bruce无奈讲解一番我稍微理解了怎么用fiddle根据请求抓取响应数据。<blockquote>下午</blockquote>发了我的电脑😊第一个属于自己的笔记本电脑。]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;早上照常6：45起床，然后蹲坑。掏出了手机，找到了昨天抢班车票的公众号的穿梭巴士，发现了有从二号线金尚路地铁站到产业园停车场的车票，遂抢之。
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第一天</title>
-    <link href="https://blog.eli486.cn/2019/07/15/day03/"/>
-    <id>https://blog.eli486.cn/2019/07/15/day03/</id>
-    <published>2019-07-15T15:08:59.000Z</published>
-    <updated>2019-07-20T08:03:08.219Z</updated>
-    
-    <content type="html"><![CDATA[<p>早上5点就醒了睡不着，人的这个特性很奇妙，保持兴奋状态是不是真的能提高工作效率呢？</p><p>比周日测试路线时间提前15分钟搭上208，在凤凰城堵车，以为会迟到，还好及时赶到。<a id="more"></a></p><blockquote>上午</blockquote>HR讲解入职须知事项，然后去办了饭卡，各部门再串了个门，残念的是我就记住了几个人名，一个HR-Candy,一个我的导师Bruce。个人电脑没有派发，所以用着旧电脑-windows7的，有点脏，Bruce发了几个文件项目让我熟悉，fiddle，一种web调试工具，我今儿任务就是学会利用它抓取数据。<p>中午,bruce带我去食堂吃饭，饭后一起转圈散步，偶遇其他部门的一个小伙子，他们谈起小伙子去医院的状况-颈椎病，不禁也担忧以后的身体状况，看来要加强锻炼。</p><blockquote>下午</blockquote>继续熟悉fiddler,测试以前的代码，练练手。。。<p>6点下班，回去第一次坐班车，candy抢的票还不知道怎么用，也没怎么细看，停车场两辆大巴车，不知上哪辆，看到一位阿姨开车，以为好说话，亲切询问我改上哪班车去2号线，她不咸不淡的说了句看车牌，我一愣观望两辆车，一个写着1号车，另一个3号车，心想没有2号车，是不是2号线的车已经走了，便再次询问，可谁知阿姨居然怒气上来了，我也没听清楚说啥，估摸着就是看车牌都不会啊，我当时也很憋屈只嗯嗯就走开了，内心吗卖批，没乘过班车问问都不行啊。低头掏出手机注意到candy发的车票上有很小的标明车牌号，遂上了另一班车。但与这位大巴阿姨的对话所引来的烦躁感萦绕心头,久久不曾散去,nmsl…</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;早上5点就醒了睡不着，人的这个特性很奇妙，保持兴奋状态是不是真的能提高工作效率呢？&lt;/p&gt;
-&lt;p&gt;比周日测试路线时间提前15分钟搭上208，在凤凰城堵车，以为会迟到，还好及时赶到。
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>👅抽筋</title>
-    <link href="https://blog.eli486.cn/2019/07/14/day02/"/>
-    <id>https://blog.eli486.cn/2019/07/14/day02/</id>
-    <published>2019-07-14T11:28:51.000Z</published>
-    <updated>2019-07-14T14:10:38.996Z</updated>
-    
-    <content type="html"><![CDATA[<p>打个哈气，无聊动了动👅，结果抽筋了<br>那酸爽，感觉要当场去世，再也不想在体验一次了<a id="more"></a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;打个哈气，无聊动了动👅，结果抽筋了&lt;br&gt;那酸爽，感觉要当场去世，再也不想在体验一次了
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My mad heart</title>
-    <link href="https://blog.eli486.cn/2019/07/11/day01/"/>
-    <id>https://blog.eli486.cn/2019/07/11/day01/</id>
-    <published>2019-07-11T15:14:55.000Z</published>
-    <updated>2019-07-14T12:10:22.454Z</updated>
-    
-    <content type="html"><![CDATA[<p>听着《CAROLE &amp; TUESDAY》的</p><blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1361193752&auto=1&height=66"></iframe></blockquote><p>再次感受到无尽的孤独感，即便在这喧嚣的地铁上，也仿佛置身于无人的黑夜中<br>好像大喊出来，有没有人在这，有没有人和我一样总感觉好孤单<a id="more"></a><br>好想找个她来说说话<br>听她说说她的故事<br>好想陪着她一起<br>听着同一首歌<br>有着同样的感受。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;听着《CAROLE &amp;amp; TUESDAY》的&lt;/p&gt;
-&lt;blockquote&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=1361193752&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;再次感受到无尽的孤独感，即便在这喧嚣的地铁上，也仿佛置身于无人的黑夜中&lt;br&gt;好像大喊出来，有没有人在这，有没有人和我一样总感觉好孤单
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>DailyLife</title>
-    <link href="https://blog.eli486.cn/2019/06/30/DailyLife/"/>
-    <id>https://blog.eli486.cn/2019/06/30/DailyLife/</id>
-    <published>2019-06-30T08:25:41.000Z</published>
-    <updated>2019-07-20T08:39:19.375Z</updated>
-    
-    <content type="html"><![CDATA[<p>开个新博客，只写日常生活<br>博客主题链接:<br><b style="color: red">apollo:</b> <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank" rel="noopener">https://github.com/pinggod/hexo-theme-apollo</a><br>样式的部分修改参照大佬:<br><b style="color: red">绚丽的羽毛:</b><a href="https://oao.moe/" target="_blank" rel="noopener">https://oao.moe/</a><a id="more"></a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;开个新博客，只写日常生活&lt;br&gt;博客主题链接:&lt;br&gt;&lt;b style=&quot;color: red&quot;&gt;apollo:&lt;/b&gt; &lt;a href=&quot;https://github.com/pinggod/hexo-theme-apollo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/pinggod/hexo-theme-apollo&lt;/a&gt;&lt;br&gt;样式的部分修改参照大佬:&lt;br&gt;&lt;b style=&quot;color: red&quot;&gt;绚丽的羽毛:&lt;/b&gt;&lt;a href=&quot;https://oao.moe/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://oao.moe/&lt;/a&gt;
     
     </summary>
     
