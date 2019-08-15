@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-08-14T13:47:00.500Z</updated>
+  <updated>2019-08-15T14:06:35.978Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>💼第二十三天</title>
+    <link href="https://blog.eli486.cn/2019/08/15/day26/"/>
+    <id>https://blog.eli486.cn/2019/08/15/day26/</id>
+    <published>2019-08-15T13:57:54.000Z</published>
+    <updated>2019-08-15T14:06:35.978Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>早饭又有萝卜干<br>稀饭+烧卖+萝卜干<br>4￥<a id="more"></a></p><blockquote>上午</blockquote>继续整理页面又弄了几个开始稀里糊涂了😵<blockquote>下午</blockquote>提起精神想起昨天看的数据挖掘大佬看了她的几篇博客看到了刷题开始整两道leetcode提提神还没做一回又被安排帮别人代理明日事务能整点新鲜的总是好的学点行业库的相关运维似乎我这基本是确定走运维方向了🐎内心有点小不乐意感觉像是养老生活一样没了奋斗的激情😔转念一想我正起步多学点总是好的😄]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;早饭又有萝卜干&lt;br&gt;稀饭+烧卖+萝卜干&lt;br&gt;4￥
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>💼第二十二天</title>
@@ -365,24 +383,6 @@
     <summary type="html">
     
       &lt;p&gt;早起坐班车&lt;br&gt;今儿早餐不错&lt;br&gt;很丰盛&lt;br&gt;有我期待已久的萝卜干配菜&lt;br&gt;还有几样新的菜品&lt;br&gt;难道每周四都这样？&lt;br&gt;下周要留意一下
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第八天</title>
-    <link href="https://blog.eli486.cn/2019/07/24/day10/"/>
-    <id>https://blog.eli486.cn/2019/07/24/day10/</id>
-    <published>2019-07-24T13:28:02.000Z</published>
-    <updated>2019-07-27T15:25:57.247Z</updated>
-    
-    <content type="html"><![CDATA[<p>早起坐班车<br>这已经是日常了<br>早餐吃了蛋糕和酸奶<br>5.5￥<br>小贵<br>但好像差不多这个价<a id="more"></a></p><blockquote>上午</blockquote>一上午都在搞登录怀疑人生我昨天不是成功实现登录的🐎咋回事呢兄弟<blockquote>下午</blockquote>下午还在搞登录问了Bruce推测是session过期导致的可我传参咋老失败呢我照着别人的步骤写的啊嗯看来我这个比较难不过下班前终于知道写死URL获取页面的方法<blockquote>晚上</blockquote>崩三扩充抽出了摩托洛鸭🤦‍我是留着次数抽女王的啊岂可修又要再来5个月才可能完成扩充100次贫民玩家的忧伤骑摩托的布洛尼亚真酷😄]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;早起坐班车&lt;br&gt;这已经是日常了&lt;br&gt;早餐吃了蛋糕和酸奶&lt;br&gt;5.5￥&lt;br&gt;小贵&lt;br&gt;但好像差不多这个价
     
     </summary>
     
