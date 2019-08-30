@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-08-29T14:54:35.386Z</updated>
+  <updated>2019-08-30T14:05:29.700Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>💼第三十四天</title>
+    <link href="https://blog.eli486.cn/2019/08/30/day37/"/>
+    <id>https://blog.eli486.cn/2019/08/30/day37/</id>
+    <published>2019-08-30T13:54:04.000Z</published>
+    <updated>2019-08-30T14:05:29.700Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>今儿<br>人比平时少了<br>早饭蛋糕+桂花糕+酸奶<br>7.5￥<br>！！</p><a id="more"></a><blockquote>上午</blockquote>日常运维昨天没想明白的sql语句调整今儿问了一下可最后我还是被弄晕了先这样吧<blockquote>下午</blockquote>本来摸着鱼结果KC来帮忙解决取数问题弄得我紧张死了大脑一片空白捣鼓捣鼓半天就下班了。。]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;今儿&lt;br&gt;人比平时少了&lt;br&gt;早饭蛋糕+桂花糕+酸奶&lt;br&gt;7.5￥&lt;br&gt;！！&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>💼第三十三天</title>
@@ -355,24 +373,6 @@
     <summary type="html">
     
       &lt;p&gt;今儿有班车坐&lt;br&gt;确实爽&lt;br&gt;早饭&lt;br&gt;看到肉松蛋糕来一个&lt;br&gt;枣巴来一个&lt;br&gt;再来酸奶&lt;br&gt;7.5￥&lt;br&gt;贵了
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第十六天</title>
-    <link href="https://blog.eli486.cn/2019/08/06/day19/"/>
-    <id>https://blog.eli486.cn/2019/08/06/day19/</id>
-    <published>2019-08-06T14:21:38.000Z</published>
-    <updated>2019-08-07T15:01:59.692Z</updated>
-    
-    <content type="html"><![CDATA[<p>早上又得坐公交<br>最近老是忘记抢班车票<br>定个闹钟吧<a id="more"></a></p><blockquote>上午</blockquote>基线检查进销存不平衡表导出摸鱼。。<blockquote>下午</blockquote>看了看WebService还没操作几下发现每日报表漏了一张急忙忙下班前修改了]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;早上又得坐公交&lt;br&gt;最近老是忘记抢班车票&lt;br&gt;定个闹钟吧
     
     </summary>
     
