@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-08-30T14:05:29.700Z</updated>
+  <updated>2019-09-02T14:48:04.671Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>💼第三十五天</title>
+    <link href="https://blog.eli486.cn/2019/09/02/day38/"/>
+    <id>https://blog.eli486.cn/2019/09/02/day38/</id>
+    <published>2019-09-02T14:42:09.000Z</published>
+    <updated>2019-09-02T14:48:04.671Z</updated>
+    
+    <content type="html"><![CDATA[<p>雨纷纷<br>日常坐班车<br>难受啊<br>下雨天走路都得小心<br>脚后跟老是彪水在裤管后面<br>早饭肉包+菜包+酸奶<br>5￥<a id="more"></a></p><blockquote>今儿</blockquote>日常运维写写动态sql早上写写leetcode第一次通知ITO重启服务知道测试环境怎么放文件下午又碰到个数据遗漏自补失败的问题摸索。。。]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;雨纷纷&lt;br&gt;日常坐班车&lt;br&gt;难受啊&lt;br&gt;下雨天走路都得小心&lt;br&gt;脚后跟老是彪水在裤管后面&lt;br&gt;早饭肉包+菜包+酸奶&lt;br&gt;5￥
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>💼第三十四天</title>
@@ -355,24 +373,6 @@
     <summary type="html">
     
       &lt;p&gt;日常坐班车&lt;br&gt;上班车之前像是要下雨&lt;br&gt;又没下成&lt;br&gt;先要充饭卡&lt;br&gt;找了几个充值机都没网&lt;br&gt;还是去1楼前台那才充成&lt;br&gt;早饭有萝卜干(应该是萝卜干吧)&lt;br&gt;稀饭+煎饺 4￥
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第十七天</title>
-    <link href="https://blog.eli486.cn/2019/08/07/day20/"/>
-    <id>https://blog.eli486.cn/2019/08/07/day20/</id>
-    <published>2019-08-07T14:46:01.000Z</published>
-    <updated>2019-08-07T15:01:57.417Z</updated>
-    
-    <content type="html"><![CDATA[<p>今儿有班车坐<br>确实爽<br>早饭<br>看到肉松蛋糕来一个<br>枣巴来一个<br>再来酸奶<br>7.5￥<br>贵了<a id="more"></a></p><blockquote>上午</blockquote>日常基线检查然后继续学习WebService<blockquote>下午</blockquote>捣鼓半天终于实现了WebService的简单案例然后摸鱼Bruce发现了😅关切地询问了最近地学习状况(⊙﹏⊙)要学的看是很多啊每个SQL都要了解看来我没时间摸鱼呀<blockquote>晚上</blockquote>今儿加班体验一下👍知道了开发票的重要性加班要多攒点发票拿来报销虽然一晚上没我啥事但还是很期待自己以后能帮上忙]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今儿有班车坐&lt;br&gt;确实爽&lt;br&gt;早饭&lt;br&gt;看到肉松蛋糕来一个&lt;br&gt;枣巴来一个&lt;br&gt;再来酸奶&lt;br&gt;7.5￥&lt;br&gt;贵了
     
     </summary>
     
