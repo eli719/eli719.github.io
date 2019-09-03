@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-09-02T14:48:04.671Z</updated>
+  <updated>2019-09-03T14:28:44.130Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>💼第三十六天</title>
+    <link href="https://blog.eli486.cn/2019/09/03/day39/"/>
+    <id>https://blog.eli486.cn/2019/09/03/day39/</id>
+    <published>2019-09-03T14:16:19.000Z</published>
+    <updated>2019-09-03T14:28:44.130Z</updated>
+    
+    <content type="html"><![CDATA[<p>阴雨绵绵<br>不知何日停<br>日常坐班车<br>早饭在家带了两块豆子巴<br>出门才意识到没加牛奶<br>买了维他奶凑活<br>3.8￥的<br>这么贵的吗😶<a id="more"></a></p><blockquote>今儿</blockquote>日常运维先基线检查再看看昨天的问题咋搞看看存储测试环境弄弄熟悉很多的操作感觉棒棒的😄不摸鱼的感觉也不错嘛]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;阴雨绵绵&lt;br&gt;不知何日停&lt;br&gt;日常坐班车&lt;br&gt;早饭在家带了两块豆子巴&lt;br&gt;出门才意识到没加牛奶&lt;br&gt;买了维他奶凑活&lt;br&gt;3.8￥的&lt;br&gt;这么贵的吗😶
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>💼第三十五天</title>
@@ -355,24 +373,6 @@
     <summary type="html">
     
       &lt;p&gt;日常坐班车&lt;br&gt;台风将至&lt;br&gt;今儿的风格外喧嚣~&lt;br&gt;早饭没啥想吃的&lt;br&gt;尝了尝腐乳+稀饭+蒸包&lt;br&gt;7￥&lt;br&gt;小贵&lt;br&gt;腐乳还是那么臭&lt;br&gt;还加了酒调味&lt;br&gt;😵
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第十八天</title>
-    <link href="https://blog.eli486.cn/2019/08/08/day21/"/>
-    <id>https://blog.eli486.cn/2019/08/08/day21/</id>
-    <published>2019-08-08T13:38:56.000Z</published>
-    <updated>2019-08-08T13:52:55.174Z</updated>
-    
-    <content type="html"><![CDATA[<p>日常坐班车<br>上班车之前像是要下雨<br>又没下成<br>先要充饭卡<br>找了几个充值机都没网<br>还是去1楼前台那才充成<br>早饭有萝卜干(应该是萝卜干吧)<br>稀饭+煎饺 4￥<a id="more"></a></p><blockquote>今儿</blockquote>今儿一天也没干啥大事熟悉使用logger来抓取前端页面执行的SQL语句听着挺高大上的总共做了5个页面的详解还凑活顺带也知道怎么在人事系统填写加班了]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;日常坐班车&lt;br&gt;上班车之前像是要下雨&lt;br&gt;又没下成&lt;br&gt;先要充饭卡&lt;br&gt;找了几个充值机都没网&lt;br&gt;还是去1楼前台那才充成&lt;br&gt;早饭有萝卜干(应该是萝卜干吧)&lt;br&gt;稀饭+煎饺 4￥
     
     </summary>
     
