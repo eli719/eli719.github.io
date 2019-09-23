@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-09-20T14:52:10.739Z</updated>
+  <updated>2019-09-23T14:27:16.271Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -17,11 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>💼第四十九天</title>
+    <link href="https://blog.eli486.cn/2019/09/23/day52/"/>
+    <id>https://blog.eli486.cn/2019/09/23/day52/</id>
+    <published>2019-09-23T13:54:04.000Z</published>
+    <updated>2019-09-23T14:27:16.271Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>今儿穿着新衣服<br>走路带风~~<br>早饭稀饭+蛋饼+煎蛋<br>5￥</p><a id="more"></a><blockquote>今儿</blockquote>周一的慵懒总带着一丝倦意明明有那么多的事可以去做却又将之无限拖延下去。。。日常运维需要写个删除历史文件的存储也就复制黏贴修修改改罢了长久不用的知识总会让你忘记我写个存储循环都不知从哪开始写那一刻我意识到了原来从开始到现在我就什么也没掌握我得加油了！中午跟郭大侠一起恰饭恰完回来聊了会小天听了会歌反而票没抢到忧桑~下午又出了点下发小问题折腾老半天总问郭大侠都不好意思了我果然太菜了。。。]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;今儿穿着新衣服&lt;br&gt;走路带风~~&lt;br&gt;早饭稀饭+蛋饼+煎蛋&lt;br&gt;5￥&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>💼第四十八天</title>
     <link href="https://blog.eli486.cn/2019/09/20/day51/"/>
     <id>https://blog.eli486.cn/2019/09/20/day51/</id>
     <published>2019-09-20T14:22:22.000Z</published>
-    <updated>2019-09-20T14:52:10.739Z</updated>
+    <updated>2019-09-20T14:54:40.600Z</updated>
     
     <content type="html"><![CDATA[<p>日常坐班车啦<br>没什么可讲的啦<br>每天都这样啊<br>被问了个问题<br>我为什么老坐最后一排的角落里？<br>理智阻止了我回答<br>体验一个人的寂寞<br>享受孤独<br>(ˉ▽ˉ；)…<br>嘴上说着<br>最后一排空啊<br>有时候能坐两个位子啊<br>今儿没坐旁边<br>😒<br>果然我不过是个路人<br>没什么好在意的<br>。。。<br>早饭蛋糕+酸奶<br>5.5￥</p><a id="more"></a><blockquote>今儿</blockquote>日常运维哎呀撒果然是我jdk没安装才导致tomcat启动浏览器没反应弄了半天可恶啊不过不要紧现在会了还是用Xshell快速安装不用导包厉害了环境搭好了项目也会部署了得好好练练了总感觉在这里呆不住没什么技术性的提升学的都快忘光了这是不行的必须要约束自己能待满一年应该差不多了。。。忙里偷闲闲聊几句貌似拉近了一点又或许是我的错觉回去的路上我总是心不在蔫想的越多越在意什么即便一个人也没主动上前怕尴尬怕无话可说假装离去却又回头眺望在干嘛一个人孤单吗别离太远看看就好卧槽3站就下车尼玛好吧都是假的。。。]]></content>
     
@@ -355,24 +373,6 @@
     <summary type="html">
     
       &lt;p&gt;昨儿停电到凌晨三点&lt;br&gt;热晕了&lt;br&gt;仍就早起坐班车&lt;br&gt;早饭稀饭+腌黄瓜+蛋饼&lt;br&gt;4￥
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第三十天</title>
-    <link href="https://blog.eli486.cn/2019/08/27/day33/"/>
-    <id>https://blog.eli486.cn/2019/08/27/day33/</id>
-    <published>2019-08-27T13:48:27.000Z</published>
-    <updated>2019-08-28T14:22:22.196Z</updated>
-    
-    <content type="html"><![CDATA[<p>今儿晚上停电了<br>周二补上周一的<br>周一也一同往日<br>早起坐班车<br>早饭小鸭子(香芋包)+肉包+酸奶<br>5.5￥</p><a id="more"></a><blockquote>今儿</blockquote>每周的第一天倒没什么事日常运维工作闲暇时间学学PL/SQL方面再帮忙做做Web取数]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今儿晚上停电了&lt;br&gt;周二补上周一的&lt;br&gt;周一也一同往日&lt;br&gt;早起坐班车&lt;br&gt;早饭小鸭子(香芋包)+肉包+酸奶&lt;br&gt;5.5￥&lt;/p&gt;
     
     </summary>
     
