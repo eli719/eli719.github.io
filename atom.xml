@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2019-09-27T14:25:31.538Z</updated>
+  <updated>2019-09-29T14:56:06.267Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>💼第五十四天</title>
+    <link href="https://blog.eli486.cn/2019/09/29/day57/"/>
+    <id>https://blog.eli486.cn/2019/09/29/day57/</id>
+    <published>2019-09-29T14:26:44.000Z</published>
+    <updated>2019-09-29T14:56:06.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>今儿国庆前的调休日<br>昨晚班车票晚出<br>还以为要搭公交了呢<br>早上人也少了<br>大家都放假了吧<br>。。。<br>早饭稀饭+蛋饼+榨菜<br>3￥</p><a id="more"></a><blockquote>今儿</blockquote>日常运维有种周一的感觉虽然明天才是周一继续学习PL/SQL基本的存储触发器没问题了上午剩下时间拿来搭建图床了下午又继续学习其实感觉这样学习效率并没那么高太随意了真要弄起来第二周刚接触的时侯就应该系统的整理一遍而不至于现在又重新温习就这样吧]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;今儿国庆前的调休日&lt;br&gt;昨晚班车票晚出&lt;br&gt;还以为要搭公交了呢&lt;br&gt;早上人也少了&lt;br&gt;大家都放假了吧&lt;br&gt;。。。&lt;br&gt;早饭稀饭+蛋饼+榨菜&lt;br&gt;3￥&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>💼第五十三天</title>
@@ -355,24 +373,6 @@
     <summary type="html">
     
       &lt;p&gt;阴雨绵绵&lt;br&gt;不知何日停&lt;br&gt;日常坐班车&lt;br&gt;早饭在家带了两块豆子巴&lt;br&gt;出门才意识到没加牛奶&lt;br&gt;买了维他奶凑活&lt;br&gt;3.8￥的&lt;br&gt;这么贵的吗😶
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第三十五天</title>
-    <link href="https://blog.eli486.cn/2019/09/02/day38/"/>
-    <id>https://blog.eli486.cn/2019/09/02/day38/</id>
-    <published>2019-09-02T14:42:09.000Z</published>
-    <updated>2019-09-02T14:48:04.671Z</updated>
-    
-    <content type="html"><![CDATA[<p>雨纷纷<br>日常坐班车<br>难受啊<br>下雨天走路都得小心<br>脚后跟老是彪水在裤管后面<br>早饭肉包+菜包+酸奶<br>5￥<a id="more"></a></p><blockquote>今儿</blockquote>日常运维写写动态sql早上写写leetcode第一次通知ITO重启服务知道测试环境怎么放文件下午又碰到个数据遗漏自补失败的问题摸索。。。]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;雨纷纷&lt;br&gt;日常坐班车&lt;br&gt;难受啊&lt;br&gt;下雨天走路都得小心&lt;br&gt;脚后跟老是彪水在裤管后面&lt;br&gt;早饭肉包+菜包+酸奶&lt;br&gt;5￥
     
     </summary>
     
