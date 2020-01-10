@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eli486.cn/"/>
-  <updated>2020-01-03T14:36:28.892Z</updated>
+  <updated>2020-01-10T14:43:35.297Z</updated>
   <id>https://blog.eli486.cn/</id>
   
   <author>
@@ -15,6 +15,96 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一百二十四天</title>
+    <link href="https://blog.eli486.cn/2020/01/10/day127/"/>
+    <id>https://blog.eli486.cn/2020/01/10/day127/</id>
+    <published>2020-01-10T14:38:49.000Z</published>
+    <updated>2020-01-10T14:43:35.297Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>黑米糕+水煮蛋<br>3.5￥</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps捣鼓捣鼓Thymeleaf页面直接复制之前课程的熟悉了下怎么页面获取数据想弄个手动操控任务执行让定时任务立即执行是不是就可以了？又回到定时任务配置下任务调度器ScheduleTasker摸索下。。。第18天]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;黑米糕+水煮蛋&lt;br&gt;3.5￥&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一百二十三天</title>
+    <link href="https://blog.eli486.cn/2020/01/09/day126/"/>
+    <id>https://blog.eli486.cn/2020/01/09/day126/</id>
+    <published>2020-01-09T14:12:14.000Z</published>
+    <updated>2020-01-09T14:17:05.427Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>玉米套餐<br>3.5￥</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps今天整理下代码除了库存，把销售和采购方法也实现下还有合并文件接下来的任务是处理页面也就是前端请求执行任务要看看Thymeleaf第17天]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;玉米套餐&lt;br&gt;3.5￥&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一百二十二天</title>
+    <link href="https://blog.eli486.cn/2020/01/08/day125/"/>
+    <id>https://blog.eli486.cn/2020/01/08/day125/</id>
+    <published>2020-01-08T14:04:45.000Z</published>
+    <updated>2020-01-08T14:11:55.609Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>蛋糕套餐<br>5￥</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps哈哈哈终于被我搞定了定时任务我让一个类继承CronTask类，在构造方法中传入实现Runnable接口的任务线程再在任务调度方法中添加任务链第16天]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;蛋糕套餐&lt;br&gt;5￥&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一百二十一天</title>
+    <link href="https://blog.eli486.cn/2020/01/07/day124/"/>
+    <id>https://blog.eli486.cn/2020/01/07/day124/</id>
+    <published>2020-01-07T14:10:37.000Z</published>
+    <updated>2020-01-07T14:15:12.868Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>黑米糕+水煮蛋<br>3.5￥</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps还在弄定时任务百度找到的是对不同任务分别实现动态配置定时时间也就是多个方法调动对应的多个时间定制但我要的效果是一个方法中根据传参不同定制不同时间调用实现该方法咋搞呢第15天]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;黑米糕+水煮蛋&lt;br&gt;3.5￥&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一百二十天</title>
+    <link href="https://blog.eli486.cn/2020/01/06/day123/"/>
+    <id>https://blog.eli486.cn/2020/01/06/day123/</id>
+    <published>2020-01-06T14:26:21.000Z</published>
+    <updated>2020-01-06T14:32:23.829Z</updated>
+    
+    <content type="html"><![CDATA[<p>日常坐班车<br>玉米+水煮蛋<br>3.5￥<br>最近玉米好难吃啊<br>还有点苦<br>🤢</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps定时任务配置熟悉了一下不过怎么实现对多个任务分别定时呢第14天]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日常坐班车&lt;br&gt;玉米+水煮蛋&lt;br&gt;3.5￥&lt;br&gt;最近玉米好难吃啊&lt;br&gt;还有点苦&lt;br&gt;🤢&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>一百一十九天</title>
@@ -283,96 +373,6 @@
     <summary type="html">
     
       &lt;p&gt;日常坐班车&lt;br&gt;稀饭+蛋饼+榨菜&lt;br&gt;3￥&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第一百零五天</title>
-    <link href="https://blog.eli486.cn/2019/12/13/day108/"/>
-    <id>https://blog.eli486.cn/2019/12/13/day108/</id>
-    <published>2019-12-13T14:25:43.000Z</published>
-    <updated>2019-12-16T14:36:45.117Z</updated>
-    
-    <content type="html"><![CDATA[<p>日常坐班车<br>稀饭+油条+榨菜<br>2.5￥</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;日常坐班车&lt;br&gt;稀饭+油条+榨菜&lt;br&gt;2.5￥&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第一百零四天</title>
-    <link href="https://blog.eli486.cn/2019/12/12/day107/"/>
-    <id>https://blog.eli486.cn/2019/12/12/day107/</id>
-    <published>2019-12-12T14:39:27.000Z</published>
-    <updated>2019-12-12T14:43:54.946Z</updated>
-    
-    <content type="html"><![CDATA[<p>日常坐班车<br>今天不吃🌽了<br>吃忒慢了<br>老让等着不好<br>稀饭+油条+榨菜<br>2.5￥<br>榨菜巨难吃<br>🤦‍</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;日常坐班车&lt;br&gt;今天不吃🌽了&lt;br&gt;吃忒慢了&lt;br&gt;老让等着不好&lt;br&gt;稀饭+油条+榨菜&lt;br&gt;2.5￥&lt;br&gt;榨菜巨难吃&lt;br&gt;🤦‍&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第一百零三天</title>
-    <link href="https://blog.eli486.cn/2019/12/11/day106/"/>
-    <id>https://blog.eli486.cn/2019/12/11/day106/</id>
-    <published>2019-12-11T14:38:16.000Z</published>
-    <updated>2019-12-12T14:44:44.963Z</updated>
-    
-    <content type="html"><![CDATA[<p>日常坐班车<br>又吃🌽了<br>稀饭+玉米+黑米糕<br>5￥<br>吃慢了点<br>黑米糕拿着吃吧<br>🤦‍</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;日常坐班车&lt;br&gt;又吃🌽了&lt;br&gt;稀饭+玉米+黑米糕&lt;br&gt;5￥&lt;br&gt;吃慢了点&lt;br&gt;黑米糕拿着吃吧&lt;br&gt;🤦‍&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第一百零二天</title>
-    <link href="https://blog.eli486.cn/2019/12/10/day105/"/>
-    <id>https://blog.eli486.cn/2019/12/10/day105/</id>
-    <published>2019-12-10T14:22:12.000Z</published>
-    <updated>2019-12-10T14:23:35.595Z</updated>
-    
-    <content type="html"><![CDATA[<p>日常坐班车<br>昨天的🌽不错<br>再吃一次<br>稀饭+玉米+腌黄瓜<br>3￥<br>吃玉米有点慢<br>🤦‍</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;日常坐班车&lt;br&gt;昨天的🌽不错&lt;br&gt;再吃一次&lt;br&gt;稀饭+玉米+腌黄瓜&lt;br&gt;3￥&lt;br&gt;吃玉米有点慢&lt;br&gt;🤦‍&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>💼第一百零一天</title>
-    <link href="https://blog.eli486.cn/2019/12/09/day104/"/>
-    <id>https://blog.eli486.cn/2019/12/09/day104/</id>
-    <published>2019-12-09T14:00:57.000Z</published>
-    <updated>2019-12-09T14:09:44.254Z</updated>
-    
-    <content type="html"><![CDATA[<p>忙活了两天小表的婚礼<br>又要上班了<br>日常坐班车<br>早饭想吃多点<br>稀饭+玉米+黑米糕<br>5￥</p><a id="more"></a><blockquote>今儿</blockquote>Daily DevOps]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;忙活了两天小表的婚礼&lt;br&gt;又要上班了&lt;br&gt;日常坐班车&lt;br&gt;早饭想吃多点&lt;br&gt;稀饭+玉米+黑米糕&lt;br&gt;5￥&lt;/p&gt;
     
     </summary>
     
